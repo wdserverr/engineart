@@ -114,7 +114,7 @@ class App extends Component {
           </>
         }
       </div>
-      <img src="https://i.postimg.cc/zGbQSMjC/ezgif-com-gif-maker.gif" className="poto" width="500" height="600"></img>
+      <img src="https://i.postimg.cc/zGbQSMjC/ezgif-com-gif-maker.gif" className="poto" width="100%" height="100%"></img>
       </main>
     );
   }
